@@ -1,4 +1,4 @@
-package basicofjava;
+package oopsconcept;
 
 //Single Inheritance
 

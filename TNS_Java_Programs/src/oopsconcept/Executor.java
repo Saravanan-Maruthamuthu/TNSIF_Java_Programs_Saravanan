@@ -1,4 +1,4 @@
-package basicofjava;
+package oopsconcept;
 
 public class Executor {
 	public static void main(String[] args) {
